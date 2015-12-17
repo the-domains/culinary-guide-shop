@@ -1,7 +1,7 @@
 name: Culinary Guide Shop
 favicon: null
-layout_spectrum: 0.95120545104146
-typography_spectrum: 0.460254296194762
+layout_spectrum: 0.24456
+typography_spectrum: 0.18646
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#6d7174'
+    - '#d5b06a'
+    - '#ea816a'
+    - '#ccccd0'
   brandStrength: 0.42908739298582077
-  lightness: 0.6550693181343377
-  saturation: 0.027632159646600485
-  rhythmicContrast: 0.853826200356707
+  lightness: 0.8125
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
